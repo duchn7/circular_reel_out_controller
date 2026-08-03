@@ -1,10 +1,6 @@
 Flight controller for rigid-wing groundgen airborne wind energy systems during circular reel out.
 
-This despository is the supplementary material of the following paper:
-Duc H. Nguyen, Agusti Porta Ko, Tallak Tveide, Mark H. Lowenberg, and Espen Oland
-Controlling rigid-wing airborne wind energy systems during circular flight without exact path following
-Wind Energy Science, 2026
-DOI: to be added
+This depository is the supplementary material of paper 'Controlling rigid-wing airborne wind energy systems during circular flight without exact path following' by Duc H. Nguyen, Agusti Porta Ko, Tallak Tveide, Mark H. Lowenberg, and Espen Oland, published on Wind Energy Science in 2026, DOI: to be added.
 
 The code was written in Julia but can be easily translated into other programming languages using a large language model.
 
